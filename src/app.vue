@@ -223,7 +223,7 @@ const resize = (size: { width: number, height: number }) => {
               <q-icon name="mdi-weather-sunny" />
             </template>
           </q-btn>
-          <q-btn dense flat href="https://github.com/malvaceae/gpt.mallows.io" round target="_blank">
+          <q-btn dense flat href="https://github.com/malvaceae/gpt.mallows.me" round target="_blank">
             <q-icon name="mdi-github" />
           </q-btn>
         </div>
